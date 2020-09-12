@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 /target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -27,3 +28,23 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+target
+
+# IDE files
+.idea
+*.iml
+>>>>>>> f9448d0afaab1a48f4b8834fec305e2f6ed824dd
